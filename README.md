@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ### Who am I?
 I'm a Computer Science student with knowledge about different areas like Software Design, Object-Oriented Programming, Databases, Data Structures and Human-Interactio Design. 
 
+### Projects
