@@ -1,5 +1,5 @@
 # My repository
-
+## Axcel Villagran
 <!--
 **AxcelVillagran/AxcelVillagran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Who am I?
-I am a Computer Science student
+### Who am I?
+I'm a Computer Science student with knowledge about different areas like Software Design, Object-Oriented Programming, Databases, Data Structures and Human-Interactio Design. 
 
