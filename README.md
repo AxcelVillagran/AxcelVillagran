@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 I'm a Computer Science student with knowledge about different areas like Software Design, Object-Oriented Programming, Databases, Data Structures and Human-Interactio Design. 
 
 ### Projects
+-Implementation of a LAN network using Quagga and virtual machines
+-Videogame store making use of data structures
