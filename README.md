@@ -20,6 +20,6 @@ I'm a Computer Science student with knowledge about different areas like Softwar
 ### Projects
 -Implementation of a LAN network using Quagga and virtual machines
 -Videogame store making use of data structures
--Curriculum Vitae (HTML and CSS)
+-Curriculum Vitae (HTML and CSS) 
 -Landing Page (HTML and CSS)
 -Time and Weather Dashboard (HTML, CSS and JavaScript)
