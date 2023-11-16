@@ -33,6 +33,6 @@ I'm a Computer Science student with knowledge about different areas like Softwar
 ### Projects
 - Implementation of a LAN network using Quagga and virtual machines 
 - Videogame store making use of data structures 
-- Curriculum Vitae (HTML and CSS) https://github.com/AxcelVillagran/curriculum.git 
+- Curriculum Vitae (HTML and CSS) [Curriculum Vitae](https://github.com/AxcelVillagran/curriculum.git)
 - Landing Page (HTML and CSS) https://github.com/AxcelVillagran/landing.git 
 - Time and Weather Dashboard (HTML, CSS and JavaScript) https://github.com/AxcelVillagran/Dashboard.git
