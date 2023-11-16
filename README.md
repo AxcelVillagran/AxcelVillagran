@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Information about myself
 - Name: Axcel Villagran
 - Ocupation: Student
-- Website: https://AxcelVillagran.github.io](https://axcelvillagran.github.io/AxcelVillagran/
+- Website: https://axcelvillagran.github.io/AxcelVillagran/
 
 
 ### Who am I?
